@@ -40,6 +40,8 @@
   #use the qtm() function for a Quick TMap
   qtm(sthelens, fill="Burglary")
   
+  #new change
+  
 ## Practical 2: Making a Map
   
   #download csv file
