@@ -5,7 +5,7 @@
 ## Practical 1: Intro to R & GIS
 
 ### R Basics
-  6 + 8
+  6 + 10
   5 * 4
   12 - 14
   6 / 17
